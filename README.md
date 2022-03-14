@@ -2,4 +2,7 @@
 
 
 
-Trying fast farward merge
+Trying fast farward merg
+
+changes done from ninja branch
+
